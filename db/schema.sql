@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS kitty_db;
+CREATE DATABASE kitty_db;
